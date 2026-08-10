@@ -1,2 +1,2 @@
-# phoenix_kit_seo
+# SEO Module for PhoenixKit
 SEO Module for PhoenixKit. 
